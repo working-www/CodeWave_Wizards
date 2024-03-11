@@ -9,10 +9,12 @@ Team Members :
 4. [Anjali Yadav](https://github.com/working-www "https://github.com/working-www")
 
 ### Proposed Features:
-   -Allow users to set the time duration of the typing test<br>
+'''HTML
+  -Allow users to set the time duration of the typing test<br>
    -Calculate total words per minute(WPM),net WPM(adjusted for errors),and accuracy perceentage<br>
    -Track the progress of the time duration of the typing test<br>
    -Touch typing lessons <br>
+'''   
 
 ### Your Innovation: 
    -Implement a point rewards system<br>
