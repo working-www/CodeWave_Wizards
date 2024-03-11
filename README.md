@@ -1,7 +1,7 @@
 # CodeWave_Wizards
 # INNODEV 2k24
 ## Typing Practice
-Team Name : CodeWave Wizards
+Team Name : CodeWave Wizards<br>
 Team Members :
 1. [Mahi Agnihotri](https://github.com/AGNIHOTRIMAHI "https://github.com/AGNIHOTRIMAHI")
 2. [Anika Saxena](https://github.com/anikasaxena17/ "https://github.com/anikasaxena17/")
